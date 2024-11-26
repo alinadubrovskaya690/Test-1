@@ -1,3 +1,9 @@
 Colors: red, yellow, blue, black, white
 Size: small, medium, large
 Shape: cube, pyramid, sphere, cylinder, cone
+
+Small blue sphere
+Medium red cone
+Large yellow cube
+Medium black cylinder
+Small white pyramid
