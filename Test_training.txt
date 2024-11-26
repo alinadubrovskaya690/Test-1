@@ -1,1 +1,2 @@
 Colors: red, yellow, blue, black, white
+Size: small, medium, large
